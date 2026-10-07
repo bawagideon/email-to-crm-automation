@@ -1,0 +1,11 @@
+{
+  "name": "email-to-crm-automation",
+  "version": "1.0.0",
+  "description": "Inbound message intelligence pipeline that parses unstructured business emails, extracts entities (budget, timeline, company, intent), creates CRM records, and synthesizes customized replies.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
